@@ -65,7 +65,7 @@ tools = [
     }
 ]
 
-# Instruct the LLM to calculate the total on its own
+# Instruct the LLM to calculate the total on its own (these are the prompts that are fed to the LLM)
 messages = [
     {
         "role": "system",
